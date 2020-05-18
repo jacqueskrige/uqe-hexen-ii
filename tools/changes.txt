@@ -1,0 +1,29 @@
+-----------------------------------------------------------------
+qbsp: (uqehx2bsp)
+- added log support.
+- added floating point texture alignment precision.
+- fixed animated texture export error from .wad to .bsp
+- added texture exacting from compiled bsp to HWAL format.
+-onlytextures: extracts textures only (simmilar to entities only)
+-textures: extracts textures when .bsp file is being built.
+-----------------------------------------------------------------
+
+vis: (uqehx2vis)
+- added log support.
+- added progress indicator.
+-----------------------------------------------------------------
+
+light: (uqehx2light)
+- added log support.
+- added world minlight. (-minlight)
+- added face counter (progress). (-nocount)
+- added negative lighting option. (-nominlimit)
+- added colored light (hexen .lit). support (-colored)
+
+worldspawn:
+light [intensity] .. same as -minlight [intensity]
+[_minlight_color/minlight_color] [0-255] [0-255] [0-255]
+
+light:
+[_color/color] [0-255] [0-255] [0-255]
+-----------------------------------------------------------------

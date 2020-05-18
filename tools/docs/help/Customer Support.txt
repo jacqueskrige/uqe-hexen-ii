@@ -1,0 +1,25 @@
+The Hexen II online help files require an HTML browser to view properly.  
+If you do not have access to a browser and are experiencing problems, you 
+can contact any of the points below for help:
+
+CUSTOMER SUPPORT
+Before contacting customer support, please consult the technical help file.
+It contains the answers to some of our most frequently asked questions and 
+may quickly and easily provide a solution to your difficulty. If after 
+reviewing the technical help file you are still experiencing problems, 
+please feel free to contact us through any of the services listed.
+
+So that we can better help you, please be at your computer and have the 
+following information ready:
+
+1. Complete product title
+2. Exact error message reported (if any) and a brief description of the 
+   problem
+3. Your computer’s processor type and speed (e.g. 486 DX2/66, Pentium 90)
+4. Video and sound card make and model (e.g., Diamond Stealth 64 video, 
+   Sound Blaster 16 sound)
+
+
+Online Support:
+
+http://www.idsoftware.com/support
